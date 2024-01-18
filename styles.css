@@ -1,0 +1,74 @@
+/* styles.css */
+
+.stopwatch {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.display {
+  font-size: 30px;
+  margin-bottom: 10px;
+  background-color: black;
+  color: beige;
+  padding: 20px;
+}
+
+button {
+  margin: 5px;
+  padding: 5px 10px;
+}
+
+button:hover {
+    color: beige;
+}
+
+.button-start {
+    font-family: "Playfair display SC";
+    font-size: 18px;
+    font-weight: bold;
+    height: 40px;
+    width: 130px;
+    background-color: green;
+    border-width: 0px;
+    border-radius: 10px;
+    margin: 15px;
+    
+}
+
+.button-stop {
+    font-family: "Playfair display SC";
+    font-size: 18px;
+    font-weight: bold;
+    height: 40px;
+    width: 130px;
+    background-color: red;
+    border-width: 0px;
+    border-radius: 10px;
+    margin: 15px;
+}
+
+.button-reset {
+    font-family: "Playfair display SC";
+    font-size: 18px;
+    font-weight: bold;
+    height: 40px;
+    width: 130px;
+    background-color: hotpink;
+    border-width: 0px;
+    border-radius: 10px;
+    margin: 15px;
+
+}
+
+.button-lap {
+    font-family: "Playfair display SC";
+    font-size: 18px;
+    font-weight: bold;
+    height: 40px;
+    width: 130px;
+    background-color: chocolate;
+    border-width: 0px;
+    border-radius: 10px;
+    margin: 15px;
+
+}
